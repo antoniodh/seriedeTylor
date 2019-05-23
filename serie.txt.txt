@@ -1,0 +1,46 @@
+
+Man Page [7]
+
+Nombre: 
+Serie de Tylor-Maclaurin.
+
+Descripcion:
+Implementar un codigo en un lenguaje de programacion que resuelva una funcion trigonometrica senoidal, empleando una serie de Tylor evaluada en la decima tercera 
+derivada con una resolucion decimal  de 5 cifras.
+
+Ejemplo:
+
+sen (3.141516/2) el resultado es: 0.99136
+
+Ver tambien:
+Google Play
+Cal.Colorful
+Autor:INITZER CREATIONS
+
+Autor:
+
+Antonio Diaz Hernandez 
+
+Pasos a seguir:
+1.-Solicita los terminos
+"Cuantos terminos decea:"
+2.-Almacena el valor en n 
+3.-Solicita el valor de X
+"Digita el valor de x:"
+4.- Almacena el valor en x
+5.-Calcula el factorial de x
+6.-Calcula el valor por el exponente n 
+7.-Muetra el resultado en consola con el valor de X.
+Ejemplo.
+f(1.57079) = 1.00000
+
+Alcance:
+Evaluar una funcion trigonometrica senoidal empleando la serie de Tylor 
+
+Limitaciones: 
+el grado n = 13
+
+Referencia
+Clase Gestion de Proyectos de software
+Docente:Cordero Ocampo Martin Ramon.
+
